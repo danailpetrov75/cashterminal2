@@ -1,0 +1,30 @@
+div {
+	margin-bottom: 10px;	
+    position: relative;
+    width: auto;
+    /*text-align:center;*/
+}
+input.center {
+	margin: 0;
+  	position: absolute; 
+  	left: 50%;
+}
+
+div.form{
+	display:inline-block;
+	border: 5px solid black;
+	padding:30px;
+	background-color: lightgray;
+	width: 400px;
+    height: 300px;
+}
+
+label {
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+}
+
+li {
+	text-align: left;
+}
